@@ -1,6 +1,6 @@
 # Brick Breaker
 
-![GIF](Docs/game.gif)
+![GIF](Docs/Game.gif)
 
 ![1](Docs/Screenshot_1.png)
 
