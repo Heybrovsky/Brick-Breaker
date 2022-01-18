@@ -1,10 +1,10 @@
 # Brick Breaker
 
-![GIF](docs/game.gif)
+![GIF](Docs/game.gif)
 
-![1](docs/Screenshot_1.png)
+![1](Docs/Screenshot_1.png)
 
-![2](docs/Screenshot_2.png)
+![2](Docs/Screenshot_2.png)
 
 > Game about destroying brick wall by deflecting bouncing ball with a paddle.
 
